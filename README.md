@@ -10,8 +10,4 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 
 ## 📸 Evidência de Execução
 
-![Foto do meu terminal](./screenshot.png)
-
-## 💻 Informações do Sistema (Extra)
-
-Processador: (cole aqui o que apareceu no comando systeminfo)
+<img width="851" height="738" alt="image" src="https://github.com/user-attachments/assets/16930b6a-c086-466c-a509-7e7989bd6d50" />
